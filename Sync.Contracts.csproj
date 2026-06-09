@@ -4,9 +4,9 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <RootNamespace>Sync.Contracts</RootNamespace>
-        <PackageId>Fjera.Sync.Contracts</PackageId>
-        <Version>1.0.0</Version>
-        <Authors>Fujairah Innovation Platform</Authors>
+        <PackageId>Proactives.Sync.Contracts</PackageId>
+        <Version>1.1.0</Version>
+        <Authors>Proactives IT</Authors>
         <Description>Shared contracts for cross-system sync between Innovation and PMS backends. Event types, transport abstractions, mapping DTOs, and webhook payloads.</Description>
         <RepositoryUrl>https://github.com/Proactives-IT/Sync.Contracts</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
